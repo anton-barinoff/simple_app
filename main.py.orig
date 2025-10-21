@@ -1,0 +1,9 @@
+<<<<<<< HEAD
+token = '1235'
+||||||| 21757aa
+token = '123'
+=======
+token = '1234'
+>>>>>>> develop
+print(token)
+# some info added
